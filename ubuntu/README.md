@@ -11,7 +11,6 @@ Interactive Docker Installer for Ubuntu, Debian and Enterprise Linux Distributio
 <p align="center">
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-Supported-orange)
-![Debian](https://img.shields.io/badge/Debian-Supported-red)
 ![Docker](https://img.shields.io/badge/Docker-Latest-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
