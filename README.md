@@ -9,6 +9,10 @@ Simple, clean and automated Docker installation scripts for Linux servers.
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=2496ED&center=true&vCenter=true&width=600&lines=Docker+Installation+Wizard;Official+Docker+Repository;Docker+Compose+Plugin;Docker+Buildx+Plugin;Ubuntu+%26+Debian+Supported;Homelab+Ready+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-Latest-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
