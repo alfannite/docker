@@ -84,7 +84,9 @@ See the LICENSE file for details.
 
 ---
 
-<p align="center">
+<div align="center">
+  <p>Made by Alfannite for you hehe 😊 </p>
+
   <a href="https://github.com/alfannite">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -103,4 +105,4 @@ See the LICENSE file for details.
   <a href="https://discord.gg/mS4UXkQjW">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-</p>
+</div>
